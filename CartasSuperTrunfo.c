@@ -7,12 +7,22 @@
 //Teste larissa
 
 int main() {
-    // Sugestão: Defina variáveis separadas para cada atributo da cidade.
-    // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
+
+    //nivel novato
+    char estado;
+    int cidade;
+    int populacao;
+    float area;
+    float pib;
+    int numeroPontosTuristico;
     
-    // Cadastro das Cartas:
-    // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
-    // Solicite ao usuário que insira as informações de cada cidade, como o código, nome, população, área, etc.
+
+    //nivel novato
+    printf("Olá! Vamos iniciar o nosso game Super Trunfo!!\n");
+    printf("Digite a baixo uma letra de A a H para simular um identificador de um estado\n");
+    scanf("")
+
+
     
     // Exibição dos Dados das Cartas:
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
